@@ -5,5 +5,17 @@
 
 ## 1.0.0 ver
 
+### General
+
 - Made Git repository
-- Git에 레포지토릴르 생성
+- Git에 리포지토리를 생성
+
+### FrontEnd
+
+- upload frontend of past project
+- 이전 프로젝트의 프론트엔드 업로드
+
+### BackEnd
+
+- upload newly made Spring server framework
+- 생성한 Spring 서버 뼈대 업로드
